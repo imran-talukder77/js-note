@@ -3,9 +3,14 @@
     padding: 0px;
 }
 
+main{
+    max-width: 1200px;
+}
+
 img{
     width: 94%;
     margin-right: 3%;
     margin-left: 3%;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
