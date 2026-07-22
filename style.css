@@ -2,8 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
-
 main{
+    display: grid;
+    justify-content: center;
+}
+
+section{
     max-width: 1200px;
 }
 
